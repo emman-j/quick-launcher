@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36121.58 d17.14
+VisualStudioVersion = 17.14.36121.58
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quick-launcher", "quick-launcher.csproj", "{8212BBB3-1C6A-4683-A860-9BB05FF4F40E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quick-launcher", "quick-launcher\quick-launcher.csproj", "{8212BBB3-1C6A-4683-A860-9BB05FF4F40E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
